@@ -10,4 +10,4 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 - [Firebase](https://firebase.google.com/)
 
-## Made with ♥ By Shreyas Mulay (https://www.linkedin.com/in/shreyasmulay23/)
+## Made with ♥ By Sandeep Jain
