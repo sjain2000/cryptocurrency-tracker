@@ -1,7 +1,7 @@
 # Cryptocurrency Tracker with React JS, Material UI, Chart JS and Firebase
 
 ## Demo
-#### Here is a working live demo :  https://shr-crypto-hunter.netlify.app/
+#### Here is a working live demo :  https://crypto-sjain-48e52f.netlify.app/
 
 ## Built with 
 
